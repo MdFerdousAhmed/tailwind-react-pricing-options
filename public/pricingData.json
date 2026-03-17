@@ -1,0 +1,59 @@
+{
+  "pricingOptions": [
+    {
+      "id": 1,
+      "name": "Starter",
+      "price": "$20/month",
+      "duration": "month",
+      "description": "Great for beginners who want basic gym access and essential equipment.",
+      "features": [
+        "Access to gym equipment",
+        "Locker room access",
+        "Free fitness assessment",
+        "Open gym hours",
+        "Basic workout guidance",
+        "Access to cardio machines",
+        "Free WiFi",
+        "Drinking water station"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Pro",
+      "price": "$40/month",
+      "popular": true,
+      "duration": "month",
+      "description": "Perfect for regular gym users who want more training options and classes.",
+      "features": [
+        "All Starter features",
+        "Group fitness classes",
+        "Cardio and strength training areas",
+        "1 personal training session per month",
+        "Access to yoga and HIIT classes",
+        "Progress tracking",
+        "Diet and nutrition tips",
+        "Priority locker access",
+        "Member community events"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Elite",
+      "price": "$70/month",
+      "duration": "month",
+      "description": "Best option for people who want full gym support and advanced training.",
+      "features": [
+        "All Pro features",
+        "Unlimited group classes",
+        "Personal trainer guidance",
+        "Custom workout plan",
+        "Nutrition consultation",
+        "24/7 gym access",
+        "Body composition analysis",
+        "Sauna and recovery area access",
+        "Priority class booking",
+        "Guest pass (1 per month)"
+      ]
+    }
+  ]
+}
